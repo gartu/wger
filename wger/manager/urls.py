@@ -66,7 +66,7 @@ patterns_templates = [
     ),
     path(
         'public',
-        workout.PublicTemplateOverview.as_view(),
+        workout.public_template_overview,
         name='public',
     ),
     path(
