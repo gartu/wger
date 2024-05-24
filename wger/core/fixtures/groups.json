@@ -272,11 +272,6 @@
                     "delete_weightunit",
                     "nutrition",
                     "weightunit"
-                ],
-                [
-                    "view_workout",
-                    "manager",
-                    "workout"
                 ]
             ]
         },
@@ -316,11 +311,6 @@
                     "change_gymadminconfig",
                     "gym",
                     "gymadminconfig"
-                ],
-                [
-                    "view_workout",
-                    "manager",
-                    "workout"
                 ]
             ]
         },
@@ -405,11 +395,6 @@
                     "change_gymconfig",
                     "gym",
                     "gymconfig"
-                ],
-                [
-                    "view_workout",
-                    "manager",
-                    "workout"
                 ]
             ]
         },
@@ -464,11 +449,6 @@
                     "delete_userdocument",
                     "gym",
                     "userdocument"
-                ],
-                [
-                    "view_workout",
-                    "manager",
-                    "workout"
                 ]
             ]
         },
